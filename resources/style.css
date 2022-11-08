@@ -1,0 +1,63 @@
+
+
+.contact{
+    background-color: #561d25ff;
+    font-weight: 300px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: #b4ada3ff;
+    border-bottom: solid black;
+    
+    
+}
+
+a:link, a:visited {
+    background-color: #b4ada3ff;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: #858786ff;
+  }
+
+
+.row{
+  text-align: center;
+  text-decoration: underline;
+}
+.education{
+    background-color: lightgrey;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flow-root;
+    color: #001b2eff;
+    float: left;
+    padding-bottom: 31.5%;
+    width: 25%;
+    
+    
+}
+.work{
+  text-align: center;
+  text-decoration: underline;
+}
+
+
+  .experience{
+    background-color: lightgrey;
+    display: flow-root;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #001b2eff;
+    float: right;
+    width: 74.83%;
+    padding-bottom: auto;
+    border-left: solid black;
+    border-width: 1%;
+    text-align: left;
+    text-indent: 1cm;
+  }
